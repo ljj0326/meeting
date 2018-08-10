@@ -1,0 +1,124 @@
+#zhucetitle {
+	margin-top: 40px;
+	font-size: 30px;
+}
+
+* {
+	margin: 0px;
+	font-size: 12px;
+}
+
+body {
+	background: black;
+}
+
+#title {
+	font-size: 40px;
+	color: #999999;
+	background: #444444;
+	text-align: center;
+}
+
+#tishi{
+	align: center;
+	padding-top: 15px;
+	width: 90%;
+	height: 20px;
+	margin: auto;
+	color: red;
+	font-size: 20px;
+}
+
+font{
+	color:red;
+	size:20px;
+}
+#main {
+	background: #444444;
+	width: 30%;
+	height: 600px;
+	margin: 10px auto;
+	box-shadow: 3px 3px 3px #555555;
+	padding-top: 10px;
+}
+
+td {
+	font-size: 20px;
+	color: yellow;
+	background: #444444;
+}
+
+form {
+	width: 80%;
+	margin: 15px auto;
+	background: #444444;
+}
+
+#input_ {
+	background: #999999;
+	width: 90%;
+	height: 30px;
+	margin: 10px auto;
+	padding-left: 15px;
+	border: 1px solid #FFFFFF;
+	outline: none;
+	font-size: 16px;
+}
+
+#input_a {
+	background: #999999;
+	width: 90%;
+	height: 30px;
+	margin: 10px auto;
+	padding-left: 15px;
+	border: 1px solid #FFFFFF;
+	outline: none;
+	font-size: 16px;
+}
+
+#input_b {
+	background: #999999;
+	width: 90%;
+	height: 30px;
+	margin: 10px auto;
+	padding-left: 15px;
+	border: 1px solid #FFFFFF;
+	outline: none;
+	font-size: 16px;
+}
+
+#divbody {
+	background: #444444;
+}
+
+#input_:hover {
+	border: 1px solid #ff9900;
+	outline-style: 1px solid #ff9900;
+}
+
+#input_btn {
+	width: 95%;
+	height: 40px;
+	margin: 10px auto;
+	border: 1px solid #ff9900;
+	color: #FF9900;
+	background: #444444;
+	font-size: 20px;
+	border-radius: 15px;
+}
+
+#input_btn:hover {
+	color: #FFFFFF;
+	background: #ff9900;
+	font-size: 20px;
+}
+
+a {
+	width: 20%;
+	height: 20px;
+	margin: 0px auto;
+	padding-top: 150px;
+	color: #cccccc;
+	text-align: center;
+	text-decoration: none;
+}
